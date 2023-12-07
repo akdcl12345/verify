@@ -1,4 +1,4 @@
-> 샵주분들을 위한 본인확인봇입니다.
+> **샵주분들을 위한 본인확인봇입니다.**
 
 ![image](https://github.com/akdcl12345/verify/assets/135408527/3bccdb0a-b8a2-4390-aec7-f0b80ad7b36a)
 
