@@ -1,7 +1,5 @@
 > **샵주분들을 위한 본인확인봇입니다.**
 
-![image](https://github.com/akdcl12345/verify/assets/135408527/3bccdb0a-b8a2-4390-aec7-f0b80ad7b36a)
-
 ![test](https://cdn.discordapp.com/attachments/1173930399781634069/1182208220211728444/image.png?ex=6583dc34&is=65716734&hm=2bbcf1ed259f24ab623bb5a40c1671a06d6c148a207d32453c05f71a6b3c54c5&)
 
 **인증기 버튼을 슬래쉬커멘드로 로드합니다.**
